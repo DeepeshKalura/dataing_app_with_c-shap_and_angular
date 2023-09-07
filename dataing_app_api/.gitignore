@@ -1,0 +1,11 @@
+# I think binary files should be ignore
+bin
+# I am a fresher but i am thinking obj file should also be ignore
+obj
+# why whould you like my properties i am going to ignore that too
+Properties
+
+# This time i am letting appsettings file but if I found that this file is bad that I will ignore you 
+
+# What the heck this .csproj file i have very i suspices I am thinking of ignoring it
+# Chatgpt saves you
